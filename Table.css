@@ -1,0 +1,134 @@
+
+  nav .ul2 {
+  
+    background-color: rgb(114, 43, 43);
+    display: flex;
+    justify-content: flex-end;
+    position: fixed; 
+    width: 100%;
+    height: 15%;
+    z-index: 10; 
+    list-style: none;
+    top: 0;
+
+ }
+
+ .checkbtn {
+
+  display: none;
+
+  }
+
+  .Item {
+  
+  font-size: 1.5em;
+  color:rgb(14, 11, 11);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  display: inline-block;
+  margin: 0 2rem;
+  line-height: 90px; 
+  text-transform: uppercase;
+  text-decoration: none;
+   
+  }
+    
+ #Logo {
+
+  position: absolute; 
+  top: 50%; 
+  left: 10%; 
+  transform: translate(-50%, -50%); 
+
+  }
+
+  .Coctelería {
+    
+  top: 58rem;
+
+ }
+
+  section {
+
+  scroll-margin-top: 100px;
+
+  }
+
+  #box1,
+  #box2,
+  #box3,
+  #box4 {
+
+    font-size: 1.4rem;
+
+  }
+
+  #box2 {
+
+    margin-bottom: 47rem;
+
+  }
+
+  #box3 {
+
+   margin-bottom: 8rem;
+   top: 3rem;
+
+  }
+
+  #box4 {
+
+   margin-bottom: -22rem;
+   top: 8rem;
+
+  }
+
+  .Tarjetas {
+
+    margin: 0 auto;  
+
+  }
+
+  /* Inicio del footer */
+  
+
+  .LogoRedes {
+
+    width: 40%;
+    order: 1;
+
+  }
+
+  .Letra {
+
+    width: 20%;
+    order: 2;
+
+  }
+  
+  .Form {
+
+    width: 40%;
+    text-align: left;
+    order: 3;
+
+  }
+
+  .Frase {
+
+    height: 10rem;
+    order: 4;
+
+  }
+
+  .TermCond {
+
+    height: 10rem;
+    order: 5;
+
+  }
+
+
+
+
+
+
